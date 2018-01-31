@@ -1,0 +1,7 @@
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/obj/x86/Debug/CarRepair.gtk-gui.gui.stetic
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/bin/Debug/CarRepair.exe.mdb
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/bin/Debug/CarRepair.exe
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/obj/x86/Debug/CarRepair.exe
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/obj/x86/Debug/CarRepair.exe.mdb
+/home/nela/Desktop/evidencija-carrepair-02cf668ba62b/CarRepair/obj/x86/Debug/CarRepair.logo.png
